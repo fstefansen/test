@@ -1,7 +1,9 @@
 {
+  "front" : {
   "car": [
     {"id": 1, "pic":"https://static.thongyoy.com/b3be7cb6-89b9-452a-aebc-71a9ac.jpg","url":"http://localhost:3000/test1" },
     {"id": 2, "pic":"https://static.thongyoy.com/c409cbd2-d708-4978-857a-19ef6c.jpg","url":"http://localhost:3000/test2" },
     {"id": 3, "pic":"https://static.thongyoy.com/517e4334-8e59-445b-adda-55bc4e.jpg","url":"http://localhost:3000/test3" }
   ]
+  }
 }
